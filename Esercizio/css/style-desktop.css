@@ -164,6 +164,11 @@ footer {
   padding-bottom: 3.5em;
   margin-top: 4em;
 }
+footer div {
+  text-align: left;
+  width: 20%;
+  margin-inline: auto;
+}
 footer a {
   color: #b9dcdb;
 }
@@ -182,17 +187,8 @@ footer h4 {
   margin-top: 2em;
   font-size: 1em;
   display: inline-block;
-  padding-inline: 0;
-  padding-left: em;
+  padding-inline: 2em;
 }
 footer i {
   color: white;
-}
-#Dfooter {
-  width: 20%;
-  margin-inline: 43%;
-  text-align: left;
-}
-footer div {
-  text-align: center;
 }
