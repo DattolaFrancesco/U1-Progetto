@@ -153,6 +153,8 @@ footer h4 {
   padding-top: 2.3em;
   margin-top: 2em;
   font-size: 0.8em;
+  display: inline-block;
+  padding-inline: 0;
 }
 footer i {
   color: white;
