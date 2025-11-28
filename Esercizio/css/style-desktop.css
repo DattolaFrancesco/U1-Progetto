@@ -151,6 +151,7 @@ main {
 .Box-Container img {
   width: 100%;
   height: 280px;
+  object-fit: cover;
 }
 .Box-Container p {
   padding-block: 1.5em;
