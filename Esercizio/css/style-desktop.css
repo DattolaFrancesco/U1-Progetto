@@ -66,6 +66,7 @@ main {
 .Middle-Section {
   width: 100%;
   margin-inline: auto;
+  margin-block: 5%;
 }
 .Middle-Section p {
   padding: 0;
@@ -75,6 +76,8 @@ main {
   margin-inline: auto;
   display: inline-block;
   text-align: left;
+  vertical-align: middle;
+  font-size: 1em;
 }
 #FirstMiddle h4 {
   margin-top: 3em;
@@ -99,7 +102,7 @@ main {
   display: inline-block;
   vertical-align: center;
   margin-right: 3%;
-  vertical-align: bottom;
+  vertical-align: middle;
 }
 /* RED SECTION */
 #Red-section {
@@ -141,13 +144,13 @@ main {
   border: 1px solid #dee1e3;
   border-radius: 0.3em;
   display: inline-block;
-  width: 30%;
+  width: 28%;
   font-size: 1em;
   vertical-align: top;
 }
 .Box-Container img {
   width: 100%;
-  height: 350px;
+  height: 280px;
 }
 .Box-Container p {
   padding-block: 1.5em;
@@ -185,7 +188,7 @@ footer h4 {
   border-top: 1px solid #b9dcdb;
   padding-top: 2.3em;
   margin-top: 2em;
-  font-size: 1em;
+  font-size: 0.8em;
   display: inline-block;
   padding-inline: 2em;
 }
