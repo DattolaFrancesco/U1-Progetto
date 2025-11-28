@@ -2,13 +2,20 @@
 /* FONT */
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
-/* BODY */
+/* GENERAL */
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.65;
   letter-spacing: 0.4px;
+}
+.Headings {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1em;
+  font-weight: bold;
+  font-size: 1em;
+  color: #25a2c3;
 }
 /*HEADER */
 header {
@@ -48,4 +55,51 @@ header img {
   padding-inline: 2.5em;
   margin-block: 2.3em;
   border-radius: 0.5em;
+}
+/* MIDLLE SECTION */
+.Middle-Section {
+  padding-inline: 2em;
+  text-align: center;
+}
+#FirstMiddle h4 {
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+.Middle h4 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+.last {
+  margin-bottom: 2em;
+}
+/* CIRCOLAR IMG */
+#Cimg {
+  width: 90%;
+  border-radius: 50%;
+  margin-block: 2em;
+}
+/* RED SECTION */
+#Red-section {
+  background-color: #e22d0e;
+  text-align: center;
+  color: white;
+  padding-inline: 1.7em;
+}
+#Red-section h4 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1em;
+  font-weight: bold;
+  font-size: 1.8em;
+  padding-block: 1.8em;
+}
+#Red-section p {
+  padding-bottom: 1.8em;
+  font-style: italic;
+}
+#Red-section h6 {
+  font-size: 1.2em;
+}
+#Red-Footer {
+  font-size: 0.8em;
 }
