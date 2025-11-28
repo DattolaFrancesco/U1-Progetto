@@ -1,1 +1,9 @@
 /* Your styles here */
+/* header */
+header {
+  background-color: black;
+  text-align: center;
+}
+header img {
+  padding-block: 2em;
+}
