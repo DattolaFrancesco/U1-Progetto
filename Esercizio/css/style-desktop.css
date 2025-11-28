@@ -23,18 +23,18 @@ header {
   text-align: left;
 }
 header img {
-  padding-block: 2em;
+  padding-block: 1.5em;
   padding-left: 2em;
 }
 /* MAIN */
 /* 1ST SECTION WITH THE TITLE */
 #Title-section {
   text-align: center;
-  padding-block: 2em;
-  padding-inline: 2em;
+  padding-block: 10em;
+  padding-inline: 20em;
   background-image: url(../images/banner.jpg);
   background-size: cover;
-  background-position: bottom 0px right -105px;
+  background-position: bottom -460px right 0px;
 }
 #Title-section h2 {
   font-family: "Montserrat", sans-serif;
